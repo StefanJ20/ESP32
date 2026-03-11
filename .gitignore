@@ -1,0 +1,13 @@
+.env
+/venv/
+__pycache__/
+db.sqlite3
+/staticfiles/
+/media/
+*.pyc
+<<<<<<< HEAD
+*.onnx
+=======
+*.onnx
+*.onnx.json
+>>>>>>> 48e193bf5aac3ba0b8d2a7a92aebacc375346221
